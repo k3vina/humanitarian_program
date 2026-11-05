@@ -10,8 +10,8 @@ An SQL project analysing data from a humanitarian programme that works across re
 
 | File | Contents |
 |---|---|
-| `humanitarian_program.sql` |: table creation, sample data, foundational queries (Tasks 1–7) |
-| `humanitarian_program_week2.sql` |: advanced SQL: HAVING, UNION, subqueries, CTEs, window functions, views, triggers, stored procedures and challenges |
+| `human_prog.sql` |: table creation, sample data, foundational queries (Tasks 1–7) |
+| `human_prog2.sql` |: advanced SQL: HAVING, UNION, subqueries, CTEs, window functions, views, triggers, stored procedures and challenges |
 | `README.md` | This file |
 
 ---
